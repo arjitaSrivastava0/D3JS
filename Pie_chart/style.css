@@ -1,0 +1,17 @@
+html {
+	background-color: #00ffa9;
+}
+
+#barchart {
+	width: 800px;
+	height: 600px;
+	background-color: orange;
+	margin-left: 120px;
+}
+
+.bar {
+	display:inline-block;
+	width: 100px;
+	height: 120px;
+	background-color: grey;
+}

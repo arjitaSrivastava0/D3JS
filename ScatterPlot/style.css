@@ -1,0 +1,30 @@
+html {
+	background-color: #00ffa9;
+}
+
+#barchart {
+	width: 800px;
+	height: 600px;
+	background-color: orange;
+	margin: 20px auto;
+}
+
+.x-axis path .x-axis line {
+	shape-rendering: crispEdges;
+}
+
+.y-axis path .y-axis line {
+	shape-rendering: crispEdges;
+}
+
+.x-axis text {
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.y-axis text {
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-size: 14px;
+}

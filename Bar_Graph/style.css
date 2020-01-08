@@ -1,0 +1,18 @@
+html {
+	background-color: #00ffa9;
+}
+
+#barchart {
+	width: 800px;
+	height: 600px;
+	background-color: orange;
+	margin: 10px auto;
+}
+
+#barchart: hover {
+	background-color: black;
+}
+/* rect:hover {
+	fill: red;
+
+} */
